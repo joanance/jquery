@@ -21,7 +21,7 @@ $(document).ready(function(){
         </div>
         `).appendTo(NovoItem);
         $(NovoItem).appendTo('ul');
-        $(NovoItem).fadeIn(5000);
+        $(NovoItem).fadeIn(1000);
         $(`#endereco-imagem-nova`).val('');
     })
 })
